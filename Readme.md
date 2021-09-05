@@ -8,4 +8,4 @@ Construido através do VSCode e instalado as extensões `py simple gui`  e a fon
 Calculadora inspirada no modelo e funcionamento da calculadora PyDataMath-II
 
 ## Tutorial para Construção da Calculadora
-Link de Tutorial para realizar a construção da calculadora: [Python Calculator with GUI]("https://www.youtube.com/watch?v=x5LSTDdffFk")
+Link de Tutorial para realizar a construção da calculadora: [Python Calculator with GUI](https://www.youtube.com/watch?v=x5LSTDdffFk) <br>
